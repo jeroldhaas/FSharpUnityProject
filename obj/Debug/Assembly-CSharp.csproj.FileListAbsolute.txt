@@ -1,0 +1,14 @@
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\UnityEditor.dll
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\UnityEngine.dll
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\nunit.framework.dll
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\obj\Debug\Assembly-CSharp.dll
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\obj\Debug\Assembly-CSharp.pdb
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\FSharpUnityLibrary.dll
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\FSharpUnityLibrary.pdb
+C:\Users\JHaas\Documents\Projects\jeroldhaas\FSharpUnityProject\Temp\bin\Debug\FSharpUnityLibrary.xml
